@@ -1,6 +1,6 @@
 Kaggle Classification Project 
 
-This repository contains our work for a Kaggle classification . It includes the complete experimentation notebook (preprocessing, feature engineering, model training, evaluation) and the final submission file generated from the best model.
+This repository contains our work for a Kaggle classification . It includes the training data file and the complete experimentation notebook (preprocessing, feature engineering, model training, evaluation).
 
 ## Objective
 - Build and evaluate machine learning models for a classification task
@@ -18,8 +18,7 @@ This repository contains our work for a Kaggle classification . It includes the 
 ```text
 .
 ├─ data
-│  ├─ train.csv
-│  └─ test.csv
+│  └─ Data_train.csv
 ├─ code .ipynb
 └─ submission_xgboost_final copie.csv
 ```
